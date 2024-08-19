@@ -2,22 +2,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349155298855"
-global.ownername = "Voltage Lord👑"
+global.ownernomer = "243972681974"
+global.ownername = "KËNÄN👑"
 global.ytname = "YT: Voltagelordprotech"
 global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
-global.ownernumber = '2349155298855'  //creator number
+global.ownernumber = '243972681974'  //creator number
 global.ownername = 'Voltage Lord' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'VOLTAGE 👑\n\nContact: +2349155298855'
+global.packname = 'KENAN'
+global.author = 'VOLTAGE 👑\n\nContact: +243972681974'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '✏️'
 global.wm = "VOLTAGE TECH."
 
 //theme link
@@ -28,12 +28,12 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
