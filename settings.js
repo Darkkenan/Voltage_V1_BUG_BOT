@@ -9,19 +9,19 @@ global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
 global.ownernumber = '243972681974'  //creator number
-global.ownername = 'Voltage Lord' //owner name
+global.ownername = 'KENAN' //owner name
 global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
 
 //sticker details
 global.packname = 'KENAN'
-global.author = 'VOLTAGE 👑\n\nContact: +243972681974'
+global.author = 'KENAN 👑\n\nContact: +243972681974'
 
 //console view/theme
 global.themeemoji = '✏️'
 global.wm = "VOLTAGE TECH."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47'
+global.link = 'https://wa.me/243972681974'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
